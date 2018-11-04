@@ -1,4 +1,5 @@
-# Tema proiect: Manager videoclipuri favorite integrata cu Youtube
+# Tema proiect:
+## Manager videoclipuri favorite integrata cu Youtube
 
 # Membrii echipei:
 * Ghețe Victor- Daniel
